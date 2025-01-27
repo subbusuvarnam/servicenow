@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-27 17:42:20</sys_created_on>
+        <sys_id>98fe71e2c31b1210087838bc0501316b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1551023_github_i_my_table.x_1551023_github_i.gitty</sys_name>
+        <sys_package display_value="GITHUB INTEGRATION" source="x_1551023_github_i">6b7d392ec3d71210087838bc050131f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GITHUB INTEGRATION">6b7d392ec3d71210087838bc050131f5</sys_scope>
+        <sys_security_acl display_value="x_1551023_github_i_my_table">5cfeb16ec3d71210087838bc050131a9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_98fe71e2c31b1210087838bc0501316b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-27 17:42:20</sys_updated_on>
+        <sys_user_role display_value="x_1551023_github_i.gitty" name="x_1551023_github_i.gitty">b99d3922c31b1210087838bc05013110</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
